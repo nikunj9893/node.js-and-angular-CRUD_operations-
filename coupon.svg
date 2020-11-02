@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="364" height="42.5" viewBox="0 0 364 42.5">
+  <g id="Group_1245" data-name="Group 1245" transform="translate(-25 -417)">
+    <g id="Group_1244" data-name="Group 1244">
+      <g id="gift-voucher" transform="translate(95 475) rotate(180)">
+        <path id="Path_126" data-name="Path 126" d="M69,58H-293a1,1,0,0,1-1-1V46.8c0-.475,0-19.125,0-19.6V17a1,1,0,0,1,1-1H69a1,1,0,0,1,1,1V27.2a1,1,0,0,1-.8.98,9,9,0,0,0,0,17.64,1,1,0,0,1,.8.98V57A1,1,0,0,1,69,58Z" fill="#badcff"/>
+        <path id="Path_127" data-name="Path 127" d="M52,21.636a1,1,0,0,1-1-1V17a1,1,0,0,1,2,0v3.636A1,1,0,0,1,52,21.636Z" fill="#badcff"/>
+        <path id="Path_128" data-name="Path 128" d="M52,30.727a1,1,0,0,1-1-1V26.091a1,1,0,0,1,2,0v3.636A1,1,0,0,1,52,30.727Z" fill="#badcff"/>
+        <path id="Path_129" data-name="Path 129" d="M52,39.818a1,1,0,0,1-1-1V35.182a1,1,0,0,1,2,0v3.637A1,1,0,0,1,52,39.818Z" fill="#badcff"/>
+        <path id="Path_130" data-name="Path 130" d="M52,48.909a1,1,0,0,1-1-1V44.273a1,1,0,0,1,2,0v3.636A1,1,0,0,1,52,48.909Z" fill="#badcff"/>
+        <path id="Path_131" data-name="Path 131" d="M52,58a1,1,0,0,1-1-1V53.364a1,1,0,0,1,2,0V57A1,1,0,0,1,52,58Z" fill="#badcff"/>
+      </g>
+      <path id="coupon" d="M26.353,82H9.059a.471.471,0,0,0-.471.471v1.451a.481.481,0,0,1-.439.486.471.471,0,0,1-.5-.47V82.471A.471.471,0,0,0,7.176,82H1.882A1.882,1.882,0,0,0,0,83.882v2.592a1.865,1.865,0,0,0,.982,1.653,3.591,3.591,0,0,1,0,6.334A1.865,1.865,0,0,0,0,96.114v2.592a1.882,1.882,0,0,0,1.882,1.882H7.176a.471.471,0,0,0,.471-.471V98.667a.481.481,0,0,1,.439-.486.471.471,0,0,1,.5.47v1.467a.471.471,0,0,0,.471.471H26.353a1.882,1.882,0,0,0,1.882-1.882V83.882A1.882,1.882,0,0,0,26.353,82ZM8.588,95.1a.471.471,0,1,1-.941,0V93.253a.471.471,0,1,1,.941,0Zm0-5.76a.471.471,0,1,1-.941,0V87.493a.471.471,0,1,1,.941,0Z" transform="translate(41.096 347.013)" fill="#436892"/>
+      <line id="Line_21" data-name="Line 21" y2="42" transform="translate(83.5 417.5)" fill="none" stroke="#f3f3f3" stroke-width="1" stroke-dasharray="2"/>
+      <text id="_" data-name="%" transform="translate(57 440)" fill="#fff" font-size="5" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">%</tspan></text>
+    </g>
+  </g>
+</svg>
